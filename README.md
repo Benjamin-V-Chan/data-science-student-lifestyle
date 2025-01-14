@@ -1,7 +1,7 @@
 # data-science-student-lifestyle
 
 ## Project Overview
-This project analyzes the impact of various lifestyle factors on students' GPA and stress levels using the Student Lifestyle Dataset. The workflow includes data preprocessing, exploratory data analysis, and predictive modeling to uncover insights about the relationships between daily habits and academic performance.
+This project analyzes the impact of various lifestyle factors on students' GPA and stress levels using the Student Lifestyle Dataset. The workflow includes data preprocessing, exploratory data analysis, and predictive modeling to uncover insights about the relationships between student lifestyle habits and academic performance, in order to better address potential causes for performing and underperforming students.
 
 ---
 
